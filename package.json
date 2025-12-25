@@ -1,0 +1,19 @@
+{
+  "name": "smart-contract-deceitcase",
+  "version": "1.0.0",
+  "description": "A prepared environment for attacks on smart contracts. Sales contracts under the Polish Civil Code. Illustrative material for the scientific article \"'Deceit' under Article 86 of the Civil Code as an attack vector in smart contracts.\"",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^3.1.0"
+  },
+  "type": "module"
+}
